@@ -54,8 +54,3 @@ The initial code was taken from fire-detect-yolov4: https://github.com/gengyanle
 ### Reputation:
 * **This data is for academic exploration only！！！**
 
-### Other
-* [building-segmentation-dataset](https://github.com/gengyanlei/build_segmentation_dataset)
-* [reflective-clothes-detect-dataset](https://github.com/gengyanlei/reflective-clothes-detect)
-
-
